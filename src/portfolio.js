@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Sean Lim',
-  role: 'Student. Foodie. Insert something.',
+  role: 'Student. Foodie. Traveler.',
   description:'I am a driven and fascinated first-year student at the University of Washington, passionate about exploring the intersections of technology and human values, to better understand and solve real-world issues. I am eager to explore opportunities in project management, and UI/UX! In my free time, you can find me enjoying home-cooking, sports, and different kinds of tea 🍵 ',
   resume: 'https://example.com',
   social: {
