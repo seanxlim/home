@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Sean Lim',
-  role: 'Student. Foodie. Traveler.',
+  role: 'Student. Creator. Avid Music Lover.',
   description:'I am a driven and fascinated first-year student at the University of Washington, passionate about exploring the intersections of technology and human values, to better understand and solve real-world issues. I am eager to explore opportunities in project management, and UI/UX! In my free time, you can find me enjoying home-cooking, sports, and different kinds of tea 🍵 ',
-  resume: 'https://example.com',
+  resume: 'https://docs.google.com/document/d/e/2PACX-1vSITcoG4p3h_dmKtuFm3eNgfVDCF5a8m2DnbQ5KSzLPfl1jrERcQhtHo_xf6l1IsOv_qbBByHoFdc6n/pub',
   social: {
     linkedin: 'https://www.linkedin.com/in/aseanlim/',
     github: 'https://github.com/seanxlim',
@@ -36,23 +36,14 @@ const projects = [
     livePreview: 'https://github.com/seanxlim/huskycharge/blob/main/Husky%20Charge%20Final%20Prototype.pdf',
   },
   {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
     name: 'Racial Bias in Computer Vision',
     description:
       'We analyzed the widely popular UTKFace dataset to implement a Convolutional Neural Network (CNN) algorithm, used to predict gender given an image of a human. By further investigating the current policy as it comes to data collection and privacy, we hope to suggest practices that will lead humanity to a safer, more equal future. As technology progresses, we as humans need to take responsibility when it comes to the validity and trustworthiness of the information being analyzed.',
     stack: ['Atom', 'Latex', 'Python'],
     sourceCode: 'https://www.techrxiv.org/articles/preprint/Racial_Bias_in_Computer_Vision_via_Convolutional_Neural_Networks/20323818',
-    livePreview:'https://www.techrxiv.org/articles/preprint/Racial_Bias_in_Computer_Vision_via_Convolutional_Neural_Networks/20323818',
+    livePreview: 'https://www.techrxiv.org/articles/preprint/Racial_Bias_in_Computer_Vision_via_Convolutional_Neural_Networks/20323818',
   },
-
-]
+  ]
 
 const skills = [
   // skills can be added or removed
