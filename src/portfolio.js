@@ -55,6 +55,9 @@ const skills = [
   'Photoshop',
   'React',
   'UI/UX',
+  'Prototyping',
+  'Workshops',
+  'iOS/Andriod Design',
   'Git'
 ]
 
