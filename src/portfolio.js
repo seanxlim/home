@@ -13,6 +13,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/aseanlim/',
     github: 'https://github.com/seanxlim',
+    instagram: 'https://www.instagram.com/seanxlim/'
   },
 }
 
